@@ -2,4 +2,4 @@
 
 A offline wiki app using Flutter.
 
-Feel free to contribute or talk some suggestions!
+### Feel free to contribute or talk suggestions.
